@@ -1,8 +1,0 @@
-hellow
-shalom 
-marhaba
-<<<<<<< HEAD
-shalom
-=======
-ismac
->>>>>>> refs/remotes/origin/main
